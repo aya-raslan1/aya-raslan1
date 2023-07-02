@@ -29,8 +29,3 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-
-
-
-
-<FontAwesomeIcon icon="fa-brands fa-kaggle" />
