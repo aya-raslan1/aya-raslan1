@@ -8,6 +8,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ECE+engineering+student;Always+learning+new+things;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+
 
 - 🏢 I'm a Electronics & Communication Engineering student and Passionate about machine learning ,   Ai and data science.
 - 👨‍💻 As a ECE student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -22,12 +27,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Electronics+and+communication+engineering+student;Always+learning+new+things;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-
 
 
